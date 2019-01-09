@@ -13,7 +13,7 @@ var youTubeUrl = "https://www.youtube.com/watch?v=Xhriw1Yn5Ds";
 var bandName = "Timbalive";
 var genre = "Timba";
 
-// Console output using ES6 new convention
+// Console output using template literals https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 console.log(
 `
 String variables:
