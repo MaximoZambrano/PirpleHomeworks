@@ -1,4 +1,5 @@
-Requirements:
+# Homework Assignment #5: Switch
+###Requirements:
     1. Your function should include at least one switch
     2. Your function must accept any possible combination of inputs 
     3. If the inputs are valid, it should return an array with 2 variables inside of it: value3, and  label3. For example:
@@ -9,7 +10,7 @@ Requirements:
         timeAdder(false,false,5,"minutes") // This is invalid because the first 2 arguments are not the correct types
         timeAdder({},"days",5,"minutes") // This is invalid because the first argument is the wrong type
 
-Extra Credit:
+### Extra Credit:
     Rather than returning an arbitrary label for label3, return the largest label that can be used with an integer value
 
     For example if someone calls:
@@ -19,4 +20,5 @@ Extra Credit:
     But if they called
     timeAdder(20,"hours",5,"hours")
     You would return [25,"hours"] because you could not use "days" with an integer value to represent 25 hours.
-*/
+
+
