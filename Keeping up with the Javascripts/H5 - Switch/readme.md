@@ -1,5 +1,6 @@
 # Homework Assignment #5: Switch
-###Requirements:
+
+### Requirements:
     1. Your function should include at least one switch
     2. Your function must accept any possible combination of inputs 
     3. If the inputs are valid, it should return an array with 2 variables inside of it: value3, and  label3. For example:
