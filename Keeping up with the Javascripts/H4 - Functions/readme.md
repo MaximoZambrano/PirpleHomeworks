@@ -8,7 +8,7 @@ Let's go back to your syllogism (logical argument) examples from Homework #3. No
 
 
 ### Extra Credit:
-f you did the extra credit on Homework #3, let's turn that example into a function as well. It should accept in 2 arguments:
+If you did the extra credit on Homework #3, let's turn that example into a function as well. It should accept in 2 arguments:
 
 1. An array of all cake possibilities (vanilla or chocolate)
 
