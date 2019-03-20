@@ -21,3 +21,16 @@
     But if they called
     timeAdder(20,"hours",5,"hours")
     You would return [25,"hours"] because you could not use "days" with an integer value to represent 25 hours.
+
+### Extra functionality:
+Global 'Multivalue' variable adds additional functionality, 
+    
+    1. if False it performs as requested.
+        multivalue = False
+        timeAdder(5,"hours",525,"seconds")
+         --> returns [18525, "seconds"]
+
+    2. if True it does return a detailed time in days, hours, minutes and seconds
+        multivalue = True
+        timeAdder(5,"hours",525,"seconds")
+        --> returns [5, "hours", 8, "minutes", 45, "seconds"]
